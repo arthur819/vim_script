@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/njy/git_project'
+let g:netrw_dirhist_2='/home/njy/git_project/hello_mod'
+let g:netrw_dirhist_3='/home/njy/Desktop/storage-system/cluster_system/include/conhash'
+let g:netrw_dirhist_4='/home/njy/git/storage-system/cluster_system/include/zkmnt'
